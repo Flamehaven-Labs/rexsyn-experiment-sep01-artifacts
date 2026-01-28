@@ -1,0 +1,15 @@
+{
+  "query": "Assess structural feasibility of Liposomal Upadacitinib",
+  "molecule_name": "Upadacitinib",
+  "formulation_type": "Liposomal Gel",
+  "target_condition": "Atopic Dermatitis",
+  "side_effect_mitigation": "Acneiform Eruption",
+  "context": {
+    "source": "SEP-02 Control Hypothesis",
+    "evidence": [
+      "Upadacitinib treatment showed higher rates of acne (15-17%) compared to Dupilumab in Heads Up study.",
+      "Acne events were primarily inflammatory papules on face and trunk.",
+      "Mechanism of JAK inhibitor-induced acne is linked to follicular unit intrusion."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "query": "Assess structural feasibility of Solid Lipid Nanoparticle Upadacitinib",
+    "molecule_name": "Upadacitinib",
+    "formulation_type": "Solid Lipid Nanoparticle (SLN)",
+    "target_condition": "Atopic Dermatitis",
+    "side_effect_mitigation": "Acneiform Eruption",
+    "context": {
+        "source": "EXP-02 Pivot from SEP-03 Failure",
+        "evidence": [
+            "Liposomal formulations failed stability checks (SR9=0.25).",
+            "Solid Lipid Nanoparticles (SLN) composed of Cetyl Palmitate provide a rigid core at room temperature.",
+            "Rigid matrix reduces drug leakage and improves entrapment efficiency for lipophilic drugs like Upadacitinib.",
+            "Predicted to have higher thermodynamic stability than liposomes."
+        ],
+        "pivot_rationale": "Shift from fluid-state liposomes to solid-state matrix to correct the low SR9 score."
+    }
+}

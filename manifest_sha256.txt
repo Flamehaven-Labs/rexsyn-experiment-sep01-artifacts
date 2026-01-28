@@ -1,0 +1,26 @@
+RExSyn Experiment - Integrity Manifest
+Generated Date: 2026-01-28T13:16:37.164623
+NOTICE: These files represent the raw immutable output of the experiment.
+--------------------------------------------------------------------------------
+SHA-256 HASH                                                       | FILE PATH
+a07951966377bd79519951abc37d0778c26283474ca95a49d015303e51c3418a | artifacts\inputs\rexsyn_input_exp02.json
+e2951ef1177fafbe32077d87a29859c55baa518af87a82c7dc6a747f38b51a06 | artifacts\inputs\rexsyn_input_exp03.json
+c93ca1ae438e7cb89fe7765408b0433878096eb5fa84829eac6a36a9afb5db20 | artifacts\inputs\rexsyn_input_sep02.json
+42fb4cd6b8c870116c1e3c567197a979c0c8e562deaa67f9e4faa859bfd2f6ed | artifacts\outputs\exp02_nnsl_output.json
+dc5b96501f52e07fe3869e717b34ca7fa777aab6feca49283fe90349eadbee7b | artifacts\outputs\exp02_rexsyn_output.json
+a6c51bbd130e9972ea1b7f9519b3ac7c0c33a2fa18c855ac4d6c621710e29a04 | artifacts\outputs\exp03_nnsl_output.json
+4318e1cb10aaa8c6291634f337e3c95c46db35cacefd4771dbf7309d46ed2b9d | artifacts\outputs\exp03_rexsyn_output.json
+2a34c2cf34dcd1bde6090f468a9c836b620e4354e2d891e4e063c14238afdcae | artifacts\outputs\sep01_results.json
+bc7cfe8f9ac57c52644ef38369e4ee5848e698bbed50e068d55fdf8febccd7f5 | artifacts\outputs\sep02_results.json
+d0b92ed9c9e8f82d6b50bd3d9be2596f523c7f08ee67b25a5ad3ffc19fdc33fd | artifacts\outputs\sep03_nnsl_output.json
+7a29f1764200ea3bd9f52d456acf0b3ec94dd02ce2b48457d0338ccf91eebf76 | artifacts\outputs\sep03_rexsyn_output.json
+74ecf78dd2061db0e3d7cd5c5591fa5d0089e1f84968d752432bec1a03128d52 | reports\FINAL_VALIDATION_REPORT.md
+f7dae10735a51831c84add1c1e6a8b070fc8e80f12eeee56eddef39197606115 | raw_evidence\system_trace\biomedical_harvester_execution_report.md
+a764477be1d32d229d70abcb7373eaab82dc1e3d6c098f668cd020aecd84e70b | raw_evidence\system_trace\harvester_upgrade_report.md
+9d86d4f26377df43abafe0368fe474cc8e720f939385031ee65bb924ea4c4ecc | raw_evidence\system_trace\implementation_plan_exp02.md
+85a96c635692b1a326a8de92a5d21966564a039bad291ef10b16b3847c8de523 | raw_evidence\system_trace\implementation_plan_sep01.md
+cd71acd141b044009ba405bae6142eac71c1b53804b6808354293817853456aa | raw_evidence\system_trace\implementation_plan_sep02.md
+9f6431688ef5da2c62d3462d6bab9dac01d7e97ad035c36823dc67626c8d8abe | raw_evidence\system_trace\implementation_plan_sep03.md
+c5b77a2ab94baaa56e735f439495afddd1d978aa96073d9e0424a3d8f2d68c3f | raw_evidence\system_trace\REXSYN_EXPERIMENT_E2E_REPORT.md
+7336f6bfb9602f4bc2bd4ee71721a7f2586c5b4e38d8d8e3d8fc84be6d4ff811 | raw_evidence\system_trace\sep01_execution_report.md
+b4530de2cc3d249f05705ef7a5da473f275aa4c1617951ee754e25191f8e69df | raw_evidence\system_trace\sep02_execution_report.md

@@ -1,0 +1,17 @@
+{
+    "query": "Assess structural feasibility of Nanostructured Lipid Carrier (NLC) Upadacitinib",
+    "molecule_name": "Upadacitinib",
+    "formulation_type": "Nanostructured Lipid Carrier (NLC)",
+    "target_condition": "Atopic Dermatitis",
+    "side_effect_mitigation": "Acneiform Eruption",
+    "context": {
+        "source": "EXP-03 Final Pivot from SLN Failure",
+        "evidence": [
+            "SLN failed due to drug expulsion (SR9=0.27).",
+            "NLCs incorporate a liquid lipid (e.g., Oleic Acid) into the solid core.",
+            "This creates a chaotic, imperfect crystal lattice with more space for drug accommodation.",
+            "Expected to prevent crystallization and significantly improve long-term stability and drug loading."
+        ],
+        "pivot_rationale": "Correcting the perfect crystallinity of SLN by adding liquid lipid perturbation."
+    }
+}

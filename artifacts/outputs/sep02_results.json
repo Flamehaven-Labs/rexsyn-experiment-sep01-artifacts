@@ -1,0 +1,25 @@
+{
+  "experiment": "SEP-02-FORCE-INJECT",
+  "timestamp": "2026-01-24T07:28:09.661444+00:00",
+  "config_mode": "MANUAL_OVERRIDE",
+  "total_generated": 1,
+  "valid_count": 1,
+  "hypotheses": [
+    {
+      "hypothesis": "Liposomal gel formulation of Upadacitinib reduces acneiform eruption side effects by minimizing systemic absorption while maintaining cutaneous efficacy.",
+      "score": 0.95,
+      "grade": "S (Control)",
+      "supporting_evidence": [
+        "Upadacitinib treatment showed higher rates of acne (15-17%) compared to Dupilumab in Heads Up study.",
+        "Acne events were primarily inflammatory papules on face and trunk.",
+        "Mechanism of JAK inhibitor-induced acne is linked to follicular unit intrusion."
+      ],
+      "meta": {
+        "type": "control_injection",
+        "reason": "Insufficient automated signal in SEP-02 (28 papers). Manual fact injection for RExSyn testing.",
+        "target_molecule": "Upadacitinib",
+        "target_mechanism": "Liposomal Delivery"
+      }
+    }
+  ]
+}

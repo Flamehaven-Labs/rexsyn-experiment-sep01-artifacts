@@ -1,0 +1,29 @@
+{
+  "hypothesis": "Solid Lipid Nanoparticle (SLN) of Upadacitinib to mitigate Acneiform Eruption in Atopic Dermatitis.",
+  "validation_status": "needs_review",
+  "irf_score": 0.7667885459293248,
+  "aats_psi": 0.5169876932860199,
+  "consensus": false,
+  "theory": "Theory(id='theory_4719', embedding=array([0.39672171, 0.10727032, 0.61826457, 0.06761334, 0.58374288,\n       0.32175545]), distribution=array([0.3020589 , 0.11152188, 0.31295683, 0.13005321, 0.10217971,\n       0.04122948]), symbolic_form=None, causal_graph=None, complexity=3, is_consistent=True, fitness=0.75, target_node=None)",
+  "irf_components": {
+    "global_score": 0.7667885459293248,
+    "passed": false,
+    "components": {
+      "M": 0.75,
+      "A": 0.7,
+      "D": 0.9,
+      "I": 0.72,
+      "F": 0.78,
+      "P": 0.76
+    },
+    "rounded_scores": {
+      "M": 8,
+      "A": 7,
+      "D": 9,
+      "I": 7,
+      "F": 8,
+      "P": 8
+    },
+    "reasoning": []
+  }
+}
