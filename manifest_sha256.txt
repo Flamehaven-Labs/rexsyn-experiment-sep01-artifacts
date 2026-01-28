@@ -1,5 +1,5 @@
 RExSyn Experiment - Integrity Manifest
-Generated Date: 2026-01-28T13:34:01.679740
+Generated Date: 2026-01-28T13:50:41.186196
 NOTICE: These files represent the raw immutable output of the experiment.
 --------------------------------------------------------------------------------
 SHA-256 HASH                                                       | FILE PATH
@@ -15,6 +15,7 @@ bc7cfe8f9ac57c52644ef38369e4ee5848e698bbed50e068d55fdf8febccd7f5 | artifacts\out
 d0b92ed9c9e8f82d6b50bd3d9be2596f523c7f08ee67b25a5ad3ffc19fdc33fd | artifacts\outputs\sep03_nnsl_output.json
 7a29f1764200ea3bd9f52d456acf0b3ec94dd02ce2b48457d0338ccf91eebf76 | artifacts\outputs\sep03_rexsyn_output.json
 74ecf78dd2061db0e3d7cd5c5591fa5d0089e1f84968d752432bec1a03128d52 | reports\FINAL_VALIDATION_REPORT.md
+8d4a2554cb0d0991c880b89dc9dcaa4f5dffc4d94c3a2baa2c81b2face96861f | reports\RExSyn_Efficiency_Case_Study.pdf
 f7dae10735a51831c84add1c1e6a8b070fc8e80f12eeee56eddef39197606115 | raw_evidence\system_trace\biomedical_harvester_execution_report.md
 a764477be1d32d229d70abcb7373eaab82dc1e3d6c098f668cd020aecd84e70b | raw_evidence\system_trace\harvester_upgrade_report.md
 9d86d4f26377df43abafe0368fe474cc8e720f939385031ee65bb924ea4c4ecc | raw_evidence\system_trace\implementation_plan_exp02.md

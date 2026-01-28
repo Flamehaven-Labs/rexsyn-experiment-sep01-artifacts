@@ -10,7 +10,7 @@ This repository contains the complete forensic artifacts of a **RExSyn-Nexus** a
 
 ---
 
-## 🛡️ Data Integrity & Forensic Notice
+## 🛡️ Forensic Data Integrity Notice
 
 **⚠️ WARNING: RAW IMMUTABLE ARCHIVE**
 
@@ -31,7 +31,8 @@ The files in the `raw_evidence/` and `artifacts/` directories are **cryptographi
 ```text
 /
 ├── reports/               # 📄 HUMAN READABLE: Final summaries and analysis
-│   └── FINAL_VALIDATION_REPORT.md  <-- Start Here (Full details)
+│   ├── FINAL_VALIDATION_REPORT.md  <-- Start Here (Full details)
+│   └── RExSyn_Efficiency_Case_Study.pdf  <-- 📊 Visual Impact Analysis (PDF)
 │
 ├── artifacts/             # 💾 PROCESSED DATA: Inputs/Outputs for simulation engines
 │   ├── inputs/            # JSON configs fed into RExSyn (Hypothesis Seeds)
@@ -39,6 +40,8 @@ The files in the `raw_evidence/` and `artifacts/` directories are **cryptographi
 │
 ├── raw_evidence/          # 📠 SYSTEM LOGS: Unaltered execution traces
 │   └── system_trace/      # Internal execution logs (formerly 'antigravity')
+│
+├── drafts/                # 📝 PUBLIC COMMS: Publication drafts (Dev.to/LinkedIn)
 │
 └── manifest_sha256.txt    # 🔐 PROOF OF TRUTH: SHA-256 Hash Manifest
 ```
