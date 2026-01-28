@@ -40,8 +40,6 @@ The files in the `raw_evidence/` and `artifacts/` directories are **cryptographi
 ├── raw_evidence/          # 📠 SYSTEM LOGS: Unaltered execution traces
 │   └── system_trace/      # Internal execution logs (formerly 'antigravity')
 │
-├── drafts/                # 📝 PUBLIC COMMS: Publication drafts (Dev.to/LinkedIn)
-│
 └── manifest_sha256.txt    # 🔐 PROOF OF TRUTH: SHA-256 Hash Manifest
 ```
 
